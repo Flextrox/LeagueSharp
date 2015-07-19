@@ -1,0 +1,17 @@
+C:\Projekte\Twitch\Twitch\bin\Release\Twitch.exe.config
+C:\Projekte\Twitch\Twitch\bin\Release\Twitch.exe
+C:\Projekte\Twitch\Twitch\bin\Release\Twitch.pdb
+C:\Projekte\Twitch\Twitch\bin\Release\LeagueSharp.Common.dll
+C:\Projekte\Twitch\Twitch\bin\Release\LeagueSharp.dll
+C:\Projekte\Twitch\Twitch\bin\Release\SharpDX.dll
+C:\Projekte\Twitch\Twitch\bin\Release\SharpDX.Direct3D9.dll
+C:\Projekte\Twitch\Twitch\bin\Release\clipper_library.dll
+C:\Projekte\Twitch\Twitch\bin\Release\LeagueSharp.Sandbox.dll
+C:\Projekte\Twitch\Twitch\bin\Release\LeagueSharp.xml
+C:\Projekte\Twitch\Twitch\obj\Debug\Twitch.csprojResolveAssemblyReference.cache
+C:\Projekte\Twitch\Twitch\obj\Debug\Twitch.exe
+C:\Projekte\Twitch\Twitch\obj\Debug\Twitch.pdb
+C:\Projekte\Twitch\Twitch\bin\Release\Twitch.exe.manifest
+C:\Projekte\Twitch\Twitch\bin\Release\Twitch.application
+C:\Projekte\Twitch\Twitch\obj\Debug\Twitch.exe.manifest
+C:\Projekte\Twitch\Twitch\obj\Debug\Twitch.application
