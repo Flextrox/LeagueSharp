@@ -1,0 +1,17 @@
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\Twitch.exe.config
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\Twitch.exe.manifest
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\Twitch.application
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\Twitch.exe
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\Twitch.pdb
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\LeagueSharp.Common.dll
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\LeagueSharp.dll
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\SharpDX.dll
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\clipper_library.dll
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\LeagueSharp.Sandbox.dll
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\bin\Release\LeagueSharp.xml
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\obj\Debug\Twitch.csprojResolveAssemblyReference.cache
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\obj\Debug\Twitch.exe.manifest
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\obj\Debug\Twitch.application
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\obj\Debug\Twitch.exe
+C:\Users\VOlDED\Documents\GitHub\LeagueSharp\obj\Debug\Twitch.pdb
